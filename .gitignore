@@ -1,3 +1,3 @@
 build/CMakeCache.txt
 build/CMakeFiles/
-build/bin/
+build/bin/.DS_Store
